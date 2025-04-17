@@ -1,0 +1,16 @@
+{
+  "completed": {},
+  "score": 0,
+  "hints": {},
+  "achievements": {
+    "no_hints": false,
+    "word_master": false,
+    "economist": false
+  },
+  "settings": {
+    "language": "Русский",
+    "target_lang": "en",
+    "window_size": "1200x800",
+    "fullscreen": false
+  }
+}

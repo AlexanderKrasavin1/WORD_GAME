@@ -208,7 +208,7 @@ class WordGame:
         main_frame = tk.Frame(self.root, bg="#f0f0f0")
         main_frame.pack(fill="both", expand=True)
         
-        self.create_header(main_frame, f"{self.tr('root')}: {level['root']}")
+        self.create_header(main_frame, f"{level['root']}")
         
         # Блок с пояснением корня
         root_explanation = self.get_root_explanation(level['root'])
